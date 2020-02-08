@@ -1,0 +1,11 @@
+C:\Projects\SamuraiApp\SamuraiApp.Data\bin\Debug\netstandard2.1\SamuraiApp.Data.deps.json
+C:\Projects\SamuraiApp\SamuraiApp.Data\bin\Debug\netstandard2.1\SamuraiApp.Data.dll
+C:\Projects\SamuraiApp\SamuraiApp.Data\bin\Debug\netstandard2.1\SamuraiApp.Data.pdb
+C:\Projects\SamuraiApp\SamuraiApp.Data\bin\Debug\netstandard2.1\SamuraiApp.Domain.dll
+C:\Projects\SamuraiApp\SamuraiApp.Data\bin\Debug\netstandard2.1\SamuraiApp.Domain.pdb
+C:\Projects\SamuraiApp\SamuraiApp.Data\obj\Debug\netstandard2.1\SamuraiApp.Data.csprojAssemblyReference.cache
+C:\Projects\SamuraiApp\SamuraiApp.Data\obj\Debug\netstandard2.1\SamuraiApp.Data.AssemblyInfoInputs.cache
+C:\Projects\SamuraiApp\SamuraiApp.Data\obj\Debug\netstandard2.1\SamuraiApp.Data.AssemblyInfo.cs
+C:\Projects\SamuraiApp\SamuraiApp.Data\obj\Debug\netstandard2.1\SamuraiApp.Data.csproj.CopyComplete
+C:\Projects\SamuraiApp\SamuraiApp.Data\obj\Debug\netstandard2.1\SamuraiApp.Data.dll
+C:\Projects\SamuraiApp\SamuraiApp.Data\obj\Debug\netstandard2.1\SamuraiApp.Data.pdb
